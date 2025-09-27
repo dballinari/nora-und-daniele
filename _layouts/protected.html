@@ -26,7 +26,7 @@ layout: default
   document.getElementById("submit-btn").addEventListener("click", async function() {
     const input = document.getElementById("password-input").value;
     const inputHash = await hashPassword(input);
-    const correct = "652c7dc687d98c9889304ed2e408c74b611e86a40caa51c4b43f1dd5913c5cd0"; // change this!
+    const correct = "652c7dc687d98c9889304ed2e408c74b611e86a40caa51c4b43f1dd5913c5cd0";
     if (inputHash === correct) {
       document.getElementById("login-box").style.display = "none";
       document.getElementById("protected-content").style.display = "block";
