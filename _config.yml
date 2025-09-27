@@ -19,13 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nora und Daniele's Hochzeit
-email: daniele.ballinari@gmail.com
+email: norabearth@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Wir heiraten und freuen uns mit euch zu feiern!
 baseurl: "/nora-und-daniele" # the subpath of your site, e.g. /blog
-url: "hhtps://dballinari.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dballinari.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "dballinari.github.io"
 
 # Build settings

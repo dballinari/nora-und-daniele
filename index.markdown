@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Nora und Daniele's Hochzeit"
-nav_exclude: true
+title: "Willkommen"
 ---
 
 Herzlich Willkommen bei Nora und Daniele's Hochzeit!
